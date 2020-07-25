@@ -53,3 +53,5 @@ sections:
 If you want your design to be in this repository, please open a pull request or
 just send and email to jorge@on-orbit.dev with subject "AvioGauges" so we can be
 in contact and discuss about how to proceed.
+
+![gauges](_static/header.jpg)
