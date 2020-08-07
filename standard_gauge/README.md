@@ -36,3 +36,14 @@ How to build
 Your instrument is completed. For different instruments with the same
 dimensions just background scale has been modified, so building process remains
 the same.
+
+
+Authors
+-------
+
+* Alvaro Alea is the original author for the frontal bezel. Check out more of
+  his work at
+  [official thingiverse profile](https://www.thingiverse.com/alvaroalea/designs).
+
+* Back part was designed by Konstantin Susdaltzdew. More of his work in [this
+  website](https://www.thingiverse.com/js4100/designs).
